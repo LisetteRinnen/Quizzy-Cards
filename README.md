@@ -4,14 +4,16 @@ Project Description: Quizzy Cards
 
 Quizzy Cards will be a website where students can store all their study materials. Being ready for independent study or fun group games to help them learn! We have chosen college students as our target audience since college requires students to independently set up their own ways to study. Having to re-add all your questions from flashcards in a multiple choice format to a site such as kahoot can be an unnecessary amount of work that discourages students from creating fun study games. Our goal is to help students have fun while learning and make it simpler to make games by allowing students to start games from their existing flashcards requiring no extra work. We want to develop Quizzy Cards because it is something we would have used throughout our time in college as well as being a good learning experience for server-side development. 
 
-Priority 
+Priority
   User
     Description
       Technical Implementation
+
 P0
   As a user
     I want to be able to create a flash card and view it.
       When creating  a new flash card, it should be saved in the database and will be able to be pulled back for the user to see
+
 P0
   As a user
     I want to be able to add flashcards to a card set.
