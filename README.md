@@ -1,31 +1,7 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.529 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Thu Feb 17 2022 21:05:13 GMT-0800 (PST)
-* Source doc: Untitled document
-* Tables are currently converted to HTML tables.
------>
-
 
 **Project Description: Quizzy Cards**
 
-	Quizzy Cards will be a website where students can store all their study materials. Being ready for independent study or fun group games to help them learn! We have chosen college students as our target audience since college requires students to independently set up their own ways to study. Having to re-add all your questions from flashcards in a multiple choice format to a site such as kahoot can be an unnecessary amount of work that discourages students from creating fun study games. Our goal is to help students have fun while learning and make it simpler to make games by allowing students to start games from their existing flashcards requiring no extra work. We want to develop Quizzy Cards because it is something we would have used throughout our time in college as well as being a good learning experience for server-side development. 
+Quizzy Cards will be a website where students can store all their study materials. Being ready for independent study or fun group games to help them learn! We have chosen college students as our target audience since college requires students to independently set up their own ways to study. Having to re-add all your questions from flashcards in a multiple choice format to a site such as kahoot can be an unnecessary amount of work that discourages students from creating fun study games. Our goal is to help students have fun while learning and make it simpler to make games by allowing students to start games from their existing flashcards requiring no extra work. We want to develop Quizzy Cards because it is something we would have used throughout our time in college as well as being a good learning experience for server-side development. 
 
 
 <table>
